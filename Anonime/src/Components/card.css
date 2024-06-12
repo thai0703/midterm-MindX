@@ -1,0 +1,27 @@
+.card{
+    width: 170px;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+.card img{
+    width: 100%;
+    opacity: 0.8;
+}
+.card p{
+    color: #FFFFFF;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+    bottom: 30px;
+}
+.card  h6{
+    color: #FFFFFF;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+    bottom: 15px;
+}

@@ -1,0 +1,51 @@
+#root {
+  width: 1440px;
+  height: 1009px;
+  padding: 15px 83px 15px 83px;
+  background-color: black;
+}
+div.header{
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px, 83px, 15px, 83px;
+  align-items: center;
+  width: 1070px;
+}
+span.anonime{
+  font-size: 36px;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+span{
+  font-size: 18px;
+  font-weight: 400;
+  color: #868686;
+}
+input{
+  width: 350px;
+  padding: 15px;
+  border-radius: 37px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #868686;
+  background-color: #374151;
+  border: none;
+  gap: 10px;
+}
+h4{
+  font-size: 32px;
+  color: white;
+  font-weight: 600;
+  margin: 20px 0px;
+}
+p.what{
+  font-size: 22px;
+  color: #868686;
+  font-weight: 400;
+}
+.cardHolder{
+  width: 1070px;
+  display: flex;
+  justify-content: space-between;
+}
